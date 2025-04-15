@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangroklee&label=Profile%20views&color=0e75b6&style=flat" alt="kangroklee" /> </p>
 
-- 🏫 Education: Computer Science and Engineering, B.S., Chung-Ang University (Seoul)  [ Mar. 2023 - current ]
+- 🏫 Education: Computer Science and Engineering, B.S., Chung-Ang University (Seoul)  [ Mar. 2023 - Present ]
 - 🌱 I’m currently learning **Algorithms** for competitive programming
 - 📫 Contact me: DM me on Linkedin or via **kr0012** *at* **cau.ac.kr**
 
